@@ -1,0 +1,381 @@
+
+
+
+/*============================== 
+   Medium Layout: 1200px. 
+================================*/
+
+@media only screen and (max-width:1600px) {
+
+#custom-menubar ul.main-menu li.margin-left{margin-left:0;}
+
+
+#custom-menubar .logo{left:0;}
+	
+
+
+	
+}
+
+
+
+/*============================== 
+   Medium Layout: 1200px. 
+================================*/
+
+@media only screen and (max-width:1200px) {
+ .logo {
+    width: auto;
+}
+
+ .home-sliders .slick-prev.slick-arrow {
+    left:40%;
+}
+
+ .home-sliders .slick-next.slick-arrow {
+    right:40%;
+}
+
+.home-sliders .single-slide-content-wrapper h1.slider-heading{
+    font-size:3em;
+
+}
+
+#custom-menubar ul.main-menu li.margin-left{margin-left:0;}
+#custom-menubar ul.main-menu li a{padding:30px 20px;}
+
+
+#custom-menubar .logo{left:0;}
+	
+.hero-wrapper .single-hero-content-wrapper .hero-heading{left:0;top:0;}	
+		
+a.mail-link{font-size:30px;}
+
+h2.testimonial-subheading {
+    width: 25%;
+    line-height: 35px;
+	font-size: 25px;
+
+}
+
+.client-slider .slick-dots{text-align:center;width: 100%;}
+
+
+.patners-wrapper{margin-top:50px;padding:0px 0px;}
+
+ul.patners-list-group li{margin:0;width:49%;margin-bottom:50px;display:inline-block;}
+
+
+.client-info-box img.client-bg-2 {
+    margin-right: 20px;
+
+}
+.single-service-item-box .trangle{display:none;}
+
+h2.single-service-item-heading{
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:20px;
+	}
+
+
+.single-service-item-box .single-service-item-wrapper{padding:40px;}
+
+.bottom-text-box span.line-2,.bottom-text-box span.line-1{top:30px;}
+
+p.single-service-item-content{line-height:25px;}
+
+.single-news-wrapper.active{width:100%;}
+
+.single-news-wrapper.fl {
+    float: none;
+    width: 100%;
+    margin: 5px auto;
+}
+
+.contact-info-list-item h3{color: #fff;
+    font-size: 40px;}
+
+
+	
+	
+ ul.right-side-social-media li a {
+width: 44px;
+    height: 44px;
+    padding: 0px 11px;
+    line-height: 33px;
+}
+
+	
+}
+
+
+
+/*============================== 
+
+Tablet Layout: 768px.
+   
+================================*/
+
+@media only screen and (max-width:991px) {
+.sm-mt-50{margin-top:50px}	
+.sm-mt-30{margin-top:30px}	
+.sm-mt-0{margin-top:0px}	
+.sm-pdt-0{padding-top:0px}	
+.sm-pdt-50{padding-top:50px}	
+	
+
+h3.name-title {
+    font-size: 20px;
+    margin: 0;
+
+}
+
+ .home-sliders .slick-prev.slick-arrow {
+    left:30%;
+}
+
+ .home-sliders .slick-next.slick-arrow {
+    right:30%;
+}
+
+.home-sliders .single-slide-content-wrapper h1.slider-heading{
+    font-size:2em;
+
+}
+
+
+#custom-menubar ul.main-menu li a{padding:30px 20px;}
+
+
+.section-title h2.section-sub-heading, h2.section-sub-heading{font-size:39px;}
+
+
+a.mail-link{font-size:30px;}
+
+h2.testimonial-subheading {
+    width: 25%;
+    line-height: 35px;
+	font-size: 25px;
+
+}
+
+.client-slider .slick-dots{text-align:center;width: 100%;}
+
+
+.patners-wrapper{margin-top:50px;padding:0px 0px;}
+
+ul.patners-list-group li{margin:0;width:49%;margin-bottom:50px;display:inline-block;}
+
+
+.client-info-box img.client-bg-2 {
+    margin-right: 20px;
+
+}
+.single-service-item-box .trangle{display:none;}
+
+h2.single-service-item-heading{
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:20px;
+	}
+
+
+.single-service-item-box .single-service-item-wrapper{padding:40px;}
+
+.bottom-text-box span.line-2,.bottom-text-box span.line-1{top:30px;}
+
+p.single-service-item-content{line-height:25px;}
+
+.single-news-wrapper.active{width:100%;}
+
+.single-news-wrapper.fl {
+    float: none;
+    width: 100%;
+    margin: 5px auto;
+}
+
+
+
+	}
+/*===================== 
+
+ Mobile Layout: 320px.
+
+ ====================*/
+
+
+@media only screen and (max-width:767px) {
+.xs-mt-50{margin-top:50px;} 
+.xs-mt-30{margin-top:30px;} 
+.xs-mt-0{margin-top:0;}	
+.xs-pdt-0{padding-top:0;}	
+.xs-pdt-50{padding-top:50;}	
+
+.home-sliders .slick-dots{right:0;}	
+
+.home-sliders .single-slide-content-wrapper h1.slider-heading{
+    font-size:30px;
+
+}
+
+ul.list-unstyled.inline-block.social-share.pull-left{display:none;}
+
+ .home-sliders .slick-prev.slick-arrow {
+    left:15%;
+}
+
+ .home-sliders .slick-next.slick-arrow {
+    right:15%;
+}
+
+.slider-para{width:auto;}
+
+	
+.section-title h2.section-sub-heading, h2.section-sub-heading{font-size:30px;}	 
+	
+	#custom-menubar.menubar-fixed-top {
+    margin-top: 0px;
+    background: #222;
+}
+	
+	#custom-menubar ul.main-menu li {
+	display:block;
+	float: none;
+}
+
+	#custom-menubar ul.main-menu li a {
+    padding: 15px;
+
+}
+
+#custom-menubar .navbar-toggle {
+    margin-top:15px;
+    background: #f26c4f;
+    width: 50px;
+    height: 50px;
+    border-radius: 0;
+	color:#fff;
+
+}
+
+h3.sec-desc {font-size: 22px;}
+	
+a.mail-link{font-size: 24px;}
+
+.hero-wrapper .single-hero-item img{
+width:auto;
+left:0;
+right:0;
+margin:0 auto;
+	
+	}
+
+.progressbar-wrap h4{margin-top:0;}
+
+.single-service-item-box .trangle{display:none;}
+
+
+.bottom-text-box span.line-2,.bottom-text-box span.line-1{top:30px;}
+
+p.single-service-item-content{line-height:25px;}
+
+.work-slider.slick-initialized.slick-slider .slick-prev, 
+.work-slider.slick-initialized.slick-slider .slick-next{top:auto;bottom:-50px;}
+
+.client-content-left{padding-left:40px;}
+
+h2.testimonial-subheading {
+    width: 25%;
+    line-height: 35px;
+	font-size: 25px;
+
+}
+
+.client-info-box img.client-bg-2 {
+    float: none;
+    margin-right: 15px;
+
+}
+
+h3.name-title {
+    font-size: 20px;
+    margin: 0;
+
+}
+
+
+.patners-wrapper{padding:0px 0px;}
+
+ul.patners-list-group li{
+	margin:0;
+	margin:auto auto 50px auto;
+	display:block;
+	width:auto;
+	}
+
+
+
+.single-news-item-caption{padding:30px;}
+
+.single-news-wrapper .single-news-item-caption .info-wrapper,
+.single-news-wrapper.active .single-news-item-caption .info-wrapper{
+	margin-right:0;
+	margin-bottom:0;
+	}
+
+
+.contact-info-list-item span{float:none;font-size:60px;}	
+	
+.contact-info-list-item h3{font-size:30px;}	
+	
+
+	.single-news-wrapper.active{width:100%;}
+	
+	
+	.single-news-wrapper.fl {
+    float: none;
+    width: 100%;
+    margin: 5px auto;
+}
+	
+	
+.comments-list-wrapper .comments-list .comments-avatar{height:110px;float:none;}	
+	
+		
+	
+	
+	
+}
+
+
+
+
+
+/*===================== 
+
+Wide Mobile Layout: 480px. 
+
+ ====================*/
+
+ 
+@media only screen and (max-width:480px) {
+
+	
+
+
+ ul.right-side-social-media li {
+    display: inline-block;
+    float: none;
+    padding: 0px 0px;
+}
+
+.scrolltop {
+    width: 50px;
+    height: 24px;
+    font-size: 20px;
+}
+
+
+
+}
